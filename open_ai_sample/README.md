@@ -5,10 +5,9 @@ No backend. No build tools. No frameworks. For the Emperor, and for simple clien
 
 ## Run It
 
-1. Clone this repository and navigate to this folder
-   - Or download the indivdual files (into the same folder)
+1. Clone or download this repository and navigate to this folder
 2. Open `index.html` in your browser
 3. Enter your OpenAI key
-   - Don’t have one? Go to https://platform.openai.com/ and create one
+   - Don’t have one? Go to https://platform.openai.com/ to get one
 4. Press the button
 5. Receive the machine-spirit's wisdom
