@@ -14,7 +14,7 @@ ultramarButton.addEventListener("click", async () => {
 
     // Safegaurd: stop here and just return if user did not enter key
     if (!apiKey) {
-        show("Warning: Enter your OpenAI API key.");
+        show("Warning: The machine spirit requires your OpenAI API key.");
         return;
     }
 
