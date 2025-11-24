@@ -5,7 +5,7 @@ No backend/API. No frameworks. Just a handful of Pokémon and their glorious vic
 
 ## Run It
 
-1. Clone or download this repository
+1. Clone or download this repository and navigate to this folder
 2. Open `index.html` in your browser
 3. Admire the chart as five Pokémon battle for statistical supremacy
 
