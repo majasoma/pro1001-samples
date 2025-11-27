@@ -3,6 +3,11 @@
 A tiny, pure-frontend example showing how to render an **accessible Highcharts chart** using only **HTML, CSS, and JavaScript**.  
 No backend/API. No frameworks. Just a handful of Pokémon and their glorious victories.
 
+Based on content provided by [Highcharts](https://www.highcharts.com/):
+- [Getting Started with Highcharts](https://mekhatria.github.io/highcharts-academy-courses/Course-1-Getting-Started-with-Highcharts.html)
+- [Introduction to Highcharts & Accessibility](https://mekhatria.github.io/highcharts-academy-courses/Course-1-Introduction-to-Highcharts-&-Accessibility.html)
+
+
 ## Run It
 
 1. Clone or download this repository and navigate to this folder
